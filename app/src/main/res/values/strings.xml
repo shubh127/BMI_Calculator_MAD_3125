@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="heading">BMI Calculator</string>
+    <string name="height_heading">Your Height in Cm</string>
+    <string name="weight_heading">Your Weight in KG</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_result">Your Result</string>
+    <string name="height_error">Height cannot be empty!!!\nPlease enter some value</string>
+    <string name="weight_error">Weight cannot be empty!!!\nPlease enter some value</string>
+    <string name="underweight">You are Underweight</string>
+    <string name="healthy">You are Healthy</string>
+    <string name="obese">You are Obese</string>
+    <string name="overweight">You are Overweight</string>
+</resources>
